@@ -1,4 +1,4 @@
 # modulo_frontend
-curso fullstack java
+curso ebac fullstack java
 
 thiago venancio da silva
